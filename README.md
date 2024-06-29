@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/irwanto-huang-99651215b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irwanto-huang-99651215b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irwanto-huang-99651215b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irwanto-huang-99651215b/" height="30" width="40" /></a>
 <a href="https://instagram.com/irwanto.ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irwanto.ng" height="30" width="40" /></a>
 </p>
 
