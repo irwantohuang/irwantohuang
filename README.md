@@ -23,8 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/irwanto-huang-99651215b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irwanto-huang-99651215b/" height="30" width="40" /></a>
-<a href="https://instagram.com/irwanto.ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irwanto.ng" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/irwanto-huang-99651215b/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irwanto-huang-    99651215b/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/irwanto.ng" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irwanto.ng" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -63,10 +67,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irwantohuang&" alt="irwantohuang" />
 </p>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irwantohuang&show_icons=true&locale=en&layout=compact" alt="irwantohuang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwantohuang&show_icons=true&locale=en" alt="irwantohuang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irwantohuang&" alt="irwantohuang" /></p>
