@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Jakarta, Indonesia.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on PT. Bank Central Asia<br>🌱 I’m currently learning Node Express<br>👨‍💻 All of my projects are available at https://irwantohuang.netlify.app/<br>📫 How to reach me irwanto.ng11@gmail.com<br>⚡ Fun fact talk less, do more.
+🔭 I’m currently working on PT. Bank Central Asia<br>🌱<br>👨‍💻 All of my projects are available at https://irwantohuang.netlify.app/<br>📫 How to reach me irwanto.ng11@gmail.com<br>⚡ Fun fact talk less, do more.
 
 
 ## 🌐 Socials:
